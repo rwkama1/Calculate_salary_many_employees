@@ -1,0 +1,16 @@
+{
+  "name": "calculate_salary_many_employees",
+  "version": "1.0.0",
+  "description": "Calculate the monthly salary of many employees of a company",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/Calculate_salary_many_employees"
+  },
+ 
+  "keywords": ["js","javascript","salary","employees"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
