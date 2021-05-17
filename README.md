@@ -5,8 +5,8 @@ This package contains a algorithm to calculate the monthly salary of many employ
 
 ## Description
 
-Knowing the name, number of days worked, absences for each employee,the total amount of salaries of all employees is requested, the number of employees who earn between 2,500 and 3,500,
-the number of employees who earn less than 1000 or more than 4000, consider constant the daily payment to each employee and that the discount per day of absence is 100% of the daily payment.
+Knowing the name, number of days worked, absences for each employee,the total amount of salaries of all employees is requested, the number of employees who earn between USD 56 and USD 79,
+the number of employees who earn less than USD 22 or more than USD 90, consider constant the daily payment to each employee and that the discount per day of absence is 100% of the daily payment.
 
 ## Usage
 
